@@ -1,3 +1,3 @@
 # Resolving-Merge-Conflicts
 
-By: Gurtej Punnia
+By: Gurtej Singh Punnia
